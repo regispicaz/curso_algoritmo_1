@@ -1,5 +1,5 @@
-# Projeto Curso Algoritmo I
+# Curso Algoritmo I
 
-### Este projeto é sobre o curso Algoritmo e Lógica I
+###Repositório do curso Algoritmo e Lógica I
 
 ### Por Régis Picáz - 2021
